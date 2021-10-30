@@ -1,2 +1,2 @@
-# eagleSer.github.io
+# EagleSer.github.io
 The start of web design
